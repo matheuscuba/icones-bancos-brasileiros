@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="citi-bank.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-487.15865"
+     inkscape:cy="34.145936"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-161.53332)">
+    <g
+       id="g901"
+       transform="matrix(1.133193,0,0,1.1331917,-2.2663818,183.3042)"
+       style="fill:#000000">
+      <path
+         id="path891"
+         d="m 38.400442,64.214842 -0.213828,0.206921 c -3.446638,3.511502 -7.435859,5.372563 -11.546423,5.372563 -8.580217,0 -14.808582,-6.436766 -14.808582,-15.318118 0,-8.86532 6.228365,-15.311212 14.808582,-15.311212 4.110564,0 8.099785,1.868707 11.546423,5.38958 l 0.213828,0.213088 5.518073,-6.672297 -0.147484,-0.181026 c -4.589023,-5.422875 -10.095258,-8.06279 -16.86448,-8.06279 -6.792652,0 -13.002027,2.286003 -17.4771072,6.408651 -4.8622878,4.464475 -7.4294475,10.760663 -7.4294475,18.216006 0,7.451645 2.5671597,13.76337 7.4294475,18.229079 4.4750802,4.141638 10.6844552,6.415063 17.4771072,6.415063 6.769222,0 12.275457,-2.638436 16.86448,-8.063531 l 0.147484,-0.168447 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:nonzero" />
+      <path
+         id="path893"
+         d="m 49.494547,78.212262 h 9.748252 v -47.58753 h -9.748252 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:nonzero" />
+      <path
+         id="path895"
+         d="m 97.427357,67.864702 c -2.600701,1.583604 -5.021116,2.379722 -7.194656,2.379722 -3.149451,0 -4.572746,-1.662278 -4.572746,-5.364917 V 39.629398 h 9.928044 V 30.668139 H 85.659955 V 15.861036 l -9.554648,5.113356 v 9.693747 h -8.242583 v 8.961259 h 8.242583 V 66.49024 c 0,7.318218 4.334995,12.317631 10.806043,12.447604 4.393939,0.08607 7.042733,-1.222785 8.651493,-2.179705 l 0.09421,-0.07004 2.346921,-9.17558 -0.576619,0.352186 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:nonzero" />
+      <path
+         id="path897"
+         d="m 105.50125,78.212262 h 9.75466 v -47.58753 h -9.75466 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:nonzero" />
+      <path
+         id="path899"
+         d="M 121.09485,22.1809 C 112.17132,9.5411719 97.351889,2.0000016 82.274234,2.0000016 c -15.071489,0 -29.893883,7.5411703 -38.80261,20.1808984 l -0.457003,0.650361 h 11.235917 l 0.124547,-0.134906 c 7.647468,-7.89311 17.63051,-12.067303 27.899149,-12.067303 10.269872,0 20.250946,4.174193 27.913206,12.067303 l 0.1243,0.134906 h 11.23247 z"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-rule:evenodd" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="512"
+   height="512"
+   id="svg2"
+   sodipodi:docname="512-alt-alt.svg"
+   inkscape:version="0.92.3 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="670"
+     id="namedview11068"
+     showgrid="false"
+     inkscape:zoom="0.16890038"
+     inkscape:cx="1606.7013"
+     inkscape:cy="596.85901"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="style2989" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <polygon
+     style="fill:none;fill-rule:evenodd"
+     id="polygon2993"
+     points="51.4014,125.526 51.4014,147.172 38.7373,160.278 25.2902,147.467 25.3368,125.526 "
+     transform="matrix(14.73295,0,0,14.73295,-308.94674,-1849.3677)" />
+  <polyline
+     style="fill:none;fill-rule:evenodd"
+     class="fil0"
+     points="38.7373,160.278 38.7373,134.95 51.4014,147.172 "
+     id="polyline2995"
+     transform="matrix(14.73295,0,0,14.73295,-308.94674,-1849.3677)" />
+  <path
+     style="fill:#000000;fill-rule:evenodd;stroke-width:14.73295021"
+     d="M 64.339844 0 L 63.652344 323.25586 L 236.77734 488.19141 L 236.77734 138.83203 L 236.77734 79.986328 L 448.34766 284.18555 L 448.34766 0 L 64.339844 0 z "
+     id="polygon3031" />
+  <polygon
+     style="fill:#000000;fill-rule:evenodd"
+     id="polygon3033"
+     points="38.7373,134.95 38.7373,160.278 51.4014,147.172 "
+     transform="matrix(14.73295,0,0,14.73295,-308.94674,-1849.3677)" />
+</svg>

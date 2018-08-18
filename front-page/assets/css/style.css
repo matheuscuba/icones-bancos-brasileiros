@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'Fonte-Bancos-Brasileiros';
+  src:  url('../font/Fonte-Bancos-Brasileiros.eot?zfl0wc');
+  src:  url('../font/Fonte-Bancos-Brasileiros.eot?zfl0wc#iefix') format('embedded-opentype'),
+    url('../font/Fonte-Bancos-Brasileiros.ttf?zfl0wc') format('truetype'),
+    url('../font/Fonte-Bancos-Brasileiros.woff?zfl0wc') format('woff'),
+    url('../font/Fonte-Bancos-Brasileiros.svg?zfl0wc#Fonte-Bancos-Brasileiros') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ibb-"], [class*=" ibb-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Fonte-Bancos-Brasileiros' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ibb-sicredi:before {
+  content: "\e900";
+}
+.ibb-sicoob:before {
+  content: "\e901";
+}
+.ibb-santander:before {
+  content: "\e902";
+}
+.ibb-safra:before {
+  content: "\e903";
+}
+.ibb-original:before {
+  content: "\e904";
+}
+.ibb-nubank:before {
+  content: "\e905";
+}
+.ibb-itau:before {
+  content: "\e906";
+}
+.ibb-inter:before {
+  content: "\e907";
+}
+.ibb-hsbc:before {
+  content: "\e908";
+}
+.ibb-citi-bank:before {
+  content: "\e909";
+}
+.ibb-caixa:before {
+  content: "\e90a";
+}
+.ibb-bradesco-alt:before {
+  content: "\e90b";
+}
+.ibb-bradesco:before {
+  content: "\e90c";
+}
+.ibb-banrisul:before {
+  content: "\e90d";
+}
+.ibb-bank-boston:before {
+  content: "\e90e";
+}
+.ibb-banestes:before {
+  content: "\e90f";
+}
+.ibb-banco-real:before {
+  content: "\e910";
+}
+.ibb-banco-nordeste:before {
+  content: "\e911";
+}
+.ibb-banco-brasilia:before {
+  content: "\e912";
+}
+.ibb-banco-brasil:before {
+  content: "\e913";
+}
+.ibb-banco-amazonia:before {
+  content: "\e914";
+}

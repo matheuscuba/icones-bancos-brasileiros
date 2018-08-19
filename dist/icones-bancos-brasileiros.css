@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Fonte-Bancos-Brasileiros';
-  src:  url('fonts/Fonte-Bancos-Brasileiros.eot?zfl0wc');
-  src:  url('fonts/Fonte-Bancos-Brasileiros.eot?zfl0wc#iefix') format('embedded-opentype'),
-    url('fonts/Fonte-Bancos-Brasileiros.ttf?zfl0wc') format('truetype'),
-    url('fonts/Fonte-Bancos-Brasileiros.woff?zfl0wc') format('woff'),
-    url('fonts/Fonte-Bancos-Brasileiros.svg?zfl0wc#Fonte-Bancos-Brasileiros') format('svg');
+  src:  url('Fonte-Bancos-Brasileiros.eot?zfl0wc');
+  src:  url('Fonte-Bancos-Brasileiros.eot?zfl0wc#iefix') format('embedded-opentype'),
+    url('Fonte-Bancos-Brasileiros.ttf?zfl0wc') format('truetype'),
+    url('Fonte-Bancos-Brasileiros.woff?zfl0wc') format('woff'),
+    url('Fonte-Bancos-Brasileiros.svg?zfl0wc#Fonte-Bancos-Brasileiros') format('svg');
   font-weight: normal;
   font-style: normal;
 }

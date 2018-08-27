@@ -1,5 +1,7 @@
 # Pacote de Ícones de Bancos Brasileiros
 
+[![](https://data.jsdelivr.com/v1/package/gh/matheusmcuba/icones-bancos-brasileiros/badge)](https://www.jsdelivr.com/package/gh/matheusmcuba/icones-bancos-brasileiros)
+
 ![Screenshot](https://i.imgur.com/cBVzDi0.png)
 
 Conjunto de ícones dos mais diversos bancos, incluindo:

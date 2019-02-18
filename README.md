@@ -4,6 +4,9 @@
 
 ![Screenshot](https://i.imgur.com/cBVzDi0.png)
 
+#Aviso, se você estiver com problemas para usar o CDN, verifique a nova URL, (eu troquei meu nome de usuário)
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/matheuscuba/icones-bancos-brasileiros@1.1/dist/all.css">`
+
 Conjunto de ícones dos mais diversos bancos, incluindo:
 - Caixa Econômica Federal
 - Santander
